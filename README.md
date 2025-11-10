@@ -2,9 +2,9 @@
 À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
 
 # Membres du groupe
-- Esther Love Prisnie Desravines
-- Exantus Jn-Noel
-- Stella Bejhina Metellus
+- Nachtender ORILIEN
+- Carlz Stanley Schadrac MILFORT
+- Erady MICHEL
   
 # User Stories
 
@@ -43,5 +43,5 @@
 # Prototype Figma
 https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
 
-<img src="Android Compact - 8.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
-<img src="menu sombre.png" width=200> 
+<img src="iPhone 16 Pro-1.jpg" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
+<img src="menu sombre.png" width=200> <img src="menu sombre.png" width=200> 
